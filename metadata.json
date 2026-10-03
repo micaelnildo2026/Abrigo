@@ -1,0 +1,7 @@
+{
+  "name": "Macro Norte - Avaliação de Prédios para Abrigos",
+  "description": "Plataforma de engenharia civil e defesa civil para análise, triagem e classificação de edifícios adequados para abrigos temporários em emergências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
