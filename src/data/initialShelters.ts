@@ -14,7 +14,7 @@ const rawSheltersData = [
     address: 'Rodovia SC-418, Km 03 - Pirabeiraba, Joinville, SC',
     coordinates: { lat: -26.2150, lng: -48.9180 },
     elevationMeters: 38, // Cota alta segura livre de inundações da Bacia do Rio Cachoeira/Cubatão
-    imageUrl: '/src/assets/images/school_shelter_1791051402107.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 85,
     checklist: {
       structuralDamage: false,
@@ -60,7 +60,7 @@ const rawSheltersData = [
     address: 'Rua José da Silva, 220 - Costa e Silva, Joinville, SC',
     coordinates: { lat: -26.2750, lng: -48.8680 },
     elevationMeters: 18,
-    imageUrl: '/src/assets/images/school_shelter_1791051402107.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 120,
     checklist: {
       structuralDamage: false,
@@ -106,7 +106,7 @@ const rawSheltersData = [
     address: 'Rua Monsenhor Gercino, 6200 - Paranaguamirim, Joinville, SC',
     coordinates: { lat: -26.3450, lng: -48.8210 },
     elevationMeters: 12,
-    imageUrl: '/src/assets/images/sports_center_1791051424131.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 60,
     checklist: {
       structuralDamage: false,
@@ -152,7 +152,7 @@ const rawSheltersData = [
     address: 'Rua Rio Branco, 54 - Centro, Joinville, SC',
     coordinates: { lat: -26.3030, lng: -48.8450 },
     elevationMeters: 4.2, // Cota de várzea do Rio Cachoeira e maré alta
-    imageUrl: '/src/assets/images/gymnasium_shelter_1791051387707.jpg',
+    imageUrl: '/src/assets/images/morro_do_meio_draw_1791058298267.jpg',
     currentOccupancy: 0,
     checklist: {
       structuralDamage: false,
@@ -194,7 +194,7 @@ const rawSheltersData = [
     address: 'Rua Rudolf Baumer, 240 - Vila Nova, Joinville, SC',
     coordinates: { lat: -26.2920, lng: -48.9050 },
     elevationMeters: 16,
-    imageUrl: '/src/assets/images/joinville_shelter_safe_1791053220504.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 45,
     checklist: {
       structuralDamage: false,
@@ -240,7 +240,7 @@ const rawSheltersData = [
     address: 'Rua Minas Gerais, 4200 - Morro do Meio, Joinville, SC',
     coordinates: { lat: -26.3120, lng: -48.9180 },
     elevationMeters: 3.8, // Cota de várzea baixa sob remanso do Rio Águas Vermelhas
-    imageUrl: '/src/assets/images/morro_do_meio_flood_1791053206147.jpg',
+    imageUrl: '/src/assets/images/morro_do_meio_draw_1791058298267.jpg',
     currentOccupancy: 0,
     checklist: {
       structuralDamage: false,
@@ -288,7 +288,7 @@ const rawSheltersData = [
     address: 'Av. Baltazar de Oliveira Garcia, 2132 - Porto Alegre, RS',
     coordinates: { lat: -30.0125, lng: -51.1345 },
     elevationMeters: 28, // Cota segura na zona norte alta
-    imageUrl: '/src/assets/images/pavilion_shelter_1791051412119.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 420,
     checklist: {
       structuralDamage: false,
@@ -334,7 +334,7 @@ const rawSheltersData = [
     address: 'Av. Farroupilha, 8001 - Canoas, RS',
     coordinates: { lat: -29.9015, lng: -51.1780 },
     elevationMeters: 22,
-    imageUrl: '/src/assets/images/gymnasium_shelter_1791051387707.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 1200,
     checklist: {
       structuralDamage: false,
@@ -380,7 +380,7 @@ const rawSheltersData = [
     address: 'Av. Érico Veríssimo, s/n - Menino Deus, Porto Alegre, RS',
     coordinates: { lat: -30.0520, lng: -51.2210 },
     elevationMeters: 4.8, // Cota crítica vulnerável à falha da Casa de Bombas 16
-    imageUrl: '/src/assets/images/sports_center_1791051424131.jpg',
+    imageUrl: '/src/assets/images/morro_do_meio_draw_1791058298267.jpg',
     currentOccupancy: 0,
     checklist: {
       structuralDamage: false,
@@ -422,7 +422,7 @@ const rawSheltersData = [
     address: 'Rua Carlos Fett Sobrinho, 510 - Lajeado, RS',
     coordinates: { lat: -29.4520, lng: -51.9680 },
     elevationMeters: 68, // Planalto elevado muito acima da cota de 34m do Rio Taquari
-    imageUrl: '/src/assets/images/school_shelter_1791051402107.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 185,
     checklist: {
       structuralDamage: false,
@@ -467,7 +467,7 @@ const rawSheltersData = [
     address: 'Av. Feitoria, 3200 - São Leopoldo, RS',
     coordinates: { lat: -29.7710, lng: -51.1120 },
     elevationMeters: 26,
-    imageUrl: '/src/assets/images/sports_center_1791051424131.jpg',
+    imageUrl: '/src/assets/images/shelter_safe_draw_1791058311535.jpg',
     currentOccupancy: 210,
     checklist: {
       structuralDamage: false,
